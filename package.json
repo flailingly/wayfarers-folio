@@ -1,0 +1,14 @@
+{
+  "name": "wayfarers-folio",
+  "version": "0.2.0",
+  "description": "An enchanted city field guide & convalescent exploration engine",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["game", "rpg", "walking", "cartography", "pwa", "convalescence"],
+  "author": "Wayfarer Guild",
+  "license": "MIT"
+}
